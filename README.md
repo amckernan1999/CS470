@@ -1,2 +1,2 @@
 # CS470
-Capstone Course
+Capstone Course Spring 2022
